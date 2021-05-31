@@ -1,16 +1,16 @@
 <template>
   <div id="app">
-    <HelloWorld/>
+    <Airavata/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Airavata from './components/Airavata.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Airavata
   }
 }
 </script>

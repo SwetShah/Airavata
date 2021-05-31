@@ -11,4 +11,5 @@ The UI application is built using Angular framework and renders the data on UI b
 
 
 The application runs on default port '4200'
+
 http://localhost:4200

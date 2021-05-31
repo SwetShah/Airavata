@@ -26,9 +26,9 @@ https://github.com/SwetShah/hello-world/data.json
 ##### To run the application
 Please refer following links to run the applications:
 - Backend: [Run Backend application](airavata-backend/README.md)
-- UI-1 React JS: [Run React application](airavata-ui-1-react/README.md)
-- UI-2 Vue JS:  [Run React application](airavata-ui-2-vue/README.md)
-- UI-3 Angular JS:  [Run Angular application](airavata-ui3-angular/README.md)
+- UI-1 React JS: [Run React JS application](airavata-ui-1-react/README.md)
+- UI-2 Vue JS:  [Run Vue JS application](airavata-ui-2-vue/README.md)
+- UI-3 Angular:  [Run Angular application](airavata-ui3-angular/README.md)
   
   
 

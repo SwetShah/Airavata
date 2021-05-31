@@ -11,4 +11,5 @@ The UI application is built using React JS framework and renders the data on UI 
 
 
 The application runs on default port '3000'
+
 http://localhost:3000

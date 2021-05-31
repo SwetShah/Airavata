@@ -1,24 +1,14 @@
-# aviata-ui-2
+### Airavata UI-2 Vue JS
 
-## Project setup
-```
-npm install
-```
+The UI application is built using Vue JS framework and renders the data on UI by fetching it from Backend API.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+#### Please follow the below commands to run the application:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+**Make sure the backend application is up and running**
+- Install npm packages: ``` npm install ```
+- Build the application: ``` npm run build ```
+- Run the application: ``` npm run serve ```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+The application runs on default port '8080'
+http://localhost:8080

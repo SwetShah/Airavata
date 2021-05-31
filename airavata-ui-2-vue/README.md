@@ -11,4 +11,5 @@ The UI application is built using Vue JS framework and renders the data on UI by
 
 
 The application runs on default port '8080'
+
 http://localhost:8080

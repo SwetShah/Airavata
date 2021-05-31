@@ -1,0 +1,5 @@
+com/aviata/dto/Team.class
+com/aviata/config/Configuration.class
+com/aviata/controller/AviataController.class
+com/aviata/service/AviataService.class
+com/aviata/AviataBootstrapper.class
